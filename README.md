@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s-h-shuvo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahadat Hossen Shuvo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Shahadat_Hossen_Shuvo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:27shuvo.edu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
@@ -16,7 +16,7 @@
 </p>
 
 ---
-<p text-align='justify'>
+<p align="justify">
   
 
 This repository contains the complete codebase and documentation for my undergraduate thesis at Gono University. The project focuses on developing a robust, explainable AI model to predict the risk of Radiation Pneumonitis (RP) in lung cancer patients undergoing radiotherapy.
@@ -31,9 +31,9 @@ This work is driven by a commitment to leveraging AI to solve tangible clinical 
 
 ---
 
-<p text-align='justify'>
-
 ## 🎯 Project Goal
+
+<p align="justify">
 
 The primary objective is to build a non-invasive tool that uses standard pre-treatment data (CT scans and radiotherapy plans) to generate a personalized risk score for developing clinically significant (Grade ≥ 2) Radiation Pneumonitis. By identifying high-risk patients *before* treatment begins, this tool could enable clinicians to create safer, more individualized treatment plans.
 </p>
@@ -84,4 +84,3 @@ The project follows a powerful pipeline for medical AI research, integrating mul
 This is an active research project for my undergraduate thesis, due in December 2025.
 
 ---
-
