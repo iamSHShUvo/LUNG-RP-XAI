@@ -26,6 +26,7 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
+
 *.egg-info/
 .installed.cfg
 *.egg
@@ -71,3 +72,5 @@ venv.bak/
 # Ignore  large data and results folders
 /Data/
 /Results/
+*.dcm
+*.nrrd
